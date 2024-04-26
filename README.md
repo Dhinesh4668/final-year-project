@@ -1,6 +1,5 @@
 # Decentralized, Distributed Social Media Platform
 
-![Project Logo](assets/logos/project_logo.png)
 [![Contribute](https://img.shields.io/badge/Contribute-Here-green.svg)](link_to_contributing_guidelines)
 [![F-Droid](https://img.shields.io/badge/Available_on-F--Droid-blue.svg)](https://f-droid.org/)
 ## Overview
