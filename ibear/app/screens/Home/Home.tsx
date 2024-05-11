@@ -1,12 +1,16 @@
 import React from 'react'
 import {View, Text, StyleSheet} from 'react-native'
+import { AppBar } from '../../components'
 
 interface homeProp {};
 
 const Home = (): React.JSX.Element =>{
     return(
         <View>
-            <Text>HomeScreen</Text>
+            {/* app bar */}
+            <AppBar title={"Ibear"}/>
+
+            {/* home feeds */}
         </View>
     )
 }
